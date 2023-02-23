@@ -34,6 +34,7 @@ defaultHintDists = [
     'mw3.json',
     'mw3_woth.json',
     'scrubs.json',
+    'speed_seed.json',
     'strong.json',
     'tournament.json',
     'useless.json',
