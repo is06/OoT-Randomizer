@@ -1,7 +1,7 @@
 {
   "name": "speed_seed",
   "gui_name": "Speed Seed",
-  "description": "Hint Distribution for the Speed Seeds. 5 Woth, 10 barren.",
+  "description": "Hint Distribution for the Speed Seeds. 5 goals, 7 barren, 5 always, 3 sometimes.",
   "add_locations": [
     { "location": "Deku Theater Skull Mask", "types": ["always"] },
     { "location": "ZR Frogs Ocarina Game", "types": ["always"] },
